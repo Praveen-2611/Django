@@ -1,0 +1,10 @@
+header{
+    color: rgb(3, 3, 3);
+    background: linear-gradient(45deg,rgb(255, 0, 166),rgb(0, 255, 64),rgb(255, 0, 166));
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    margin: 50px;
+}
